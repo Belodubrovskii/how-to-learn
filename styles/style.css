@@ -86,14 +86,13 @@
 
 .description{
   display: flex;
-  flex-flow: column;
+  justify-content: center;
 }
 
 .two-columns{
   display: flex;
   width: 80%;
   margin-top: 100px;
-  align-self: center;
   align-items: stretch;
   justify-content: space-between;
 }
@@ -128,8 +127,6 @@
 }
 
 .two-columns__span-accent{
-  line-height: 34px;
-  font-size: 24px;
   font-weight: bold;
 }
 
@@ -368,5 +365,5 @@
   margin-right: 10px;
   height: 16px;
   width: 16px;
-  object-fit: cover;
+  object-fit: contain;
 }
