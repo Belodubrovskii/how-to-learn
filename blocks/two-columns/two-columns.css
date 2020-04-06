@@ -5,7 +5,7 @@
 @import url(./__span-accent/two-columns__span-accent.css);
 
 
-.two-columns{
+.two-columns {
   display: flex;
   width: 80%;
   align-items: stretch;

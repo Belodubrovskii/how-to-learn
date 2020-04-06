@@ -3,7 +3,7 @@
 @import url(./__link/feinman__link.css);
 @import url(./__image/feinman__image.css);
 
-.feinman{
+.feinman {
   display: flex;
   flex-direction: column;
   background-color: #F2F2F2;

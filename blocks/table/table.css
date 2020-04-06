@@ -7,7 +7,7 @@
 @import url(./__text/table__text.css);
 @import url(./__text/_theme/table__text_theme_dark.css);
 
-.table{
+.table {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

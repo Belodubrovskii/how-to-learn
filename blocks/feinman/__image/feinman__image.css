@@ -1,9 +1,10 @@
-.feinman__image{
+.feinman__image {
   width: 867px;
   height: 637px;
-  object-fit: cover;
+  background-image: url(../../../images/feinman.png);
+  background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
-  left:0;
+  left: 0;
   bottom: 0;
 }

@@ -1,5 +1,5 @@
-.feinman__link{
-  color:#000000;
+.feinman__link {
+  color: #000000;
   position: absolute;
   bottom: 50%;
   right: 48px;
@@ -9,6 +9,6 @@
   transition: opacity 2s;
 }
 
-.feinman__link:hover{
+.feinman__link:hover {
   opacity: 50%;
 }
