@@ -3,4 +3,9 @@
   font-size: 18px;
   color:  #2F80ED;
   text-decoration: none;
+  transition: opacity 2s;
+}
+
+.two-columns__link:hover{
+  opacity: 50%;
 }

@@ -12,7 +12,5 @@
   display: flex;
   min-height: 350px;
   background-color: #1F1F1F;
-  flex-direction: column;
-  justify-content: stretch;
-  position: relative;
+  align-content: stretch;
 }

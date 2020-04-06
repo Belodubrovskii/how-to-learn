@@ -8,7 +8,6 @@
 .two-columns{
   display: flex;
   width: 80%;
-  margin-top: 100px;
   align-items: stretch;
   justify-content: space-between;
 }

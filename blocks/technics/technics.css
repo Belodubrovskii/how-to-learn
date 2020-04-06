@@ -1,0 +1,6 @@
+.technics{
+  display: flex;
+  margin: 0 auto;
+  width: 80%;
+  flex-direction: column;
+}
